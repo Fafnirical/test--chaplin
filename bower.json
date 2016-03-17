@@ -1,0 +1,12 @@
+{
+  "name": "test--chaplin",
+  "private": true,
+  "dependencies": {
+    "chaplin": "^1.1.1",
+    "handlebars": "^4.0.5",
+    "jquery": "^2.2.2",
+    "lodash": "^4.6.1",
+    "requirejs": "^2.2.0",
+    "text": "requirejs/text#^2.0.14"
+  }
+}
